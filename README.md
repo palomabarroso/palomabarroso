@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @palomabarroso
 - 👀 I’m interested in ReactJS, NodeJS, NextJS
-- 🌱 I’m currently learning GO Lang
+- 🌱 I’m currently learning Python
 - 📫 Send me a message: palomapbarroso@gmail.com
